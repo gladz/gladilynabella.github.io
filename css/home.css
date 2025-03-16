@@ -204,8 +204,9 @@ h3{
     object-fit: cover;
 }
 .video_right{
+	margin-top: 37px;
 	width: 100%;     
-    height: 65%;     
+    height: 55%;     
     object-fit: cover;
 }
 
@@ -317,7 +318,7 @@ h3{
 }
 
 .image1 {
-  width: 20%;
+  width: 65px;
   height: 70px;
   padding: 1px;
   border: 1px solid #aaaaaa;
@@ -325,21 +326,21 @@ h3{
   transform: rotate(10deg);
 }
 .image2 {
-  width: 20%;
+  width: 65px;
   height: 70px;
   padding: 1px;
   border: 1px solid #aaaaaa;
   transform: rotate(-15deg);
 }
 .image3 {
-  width: 20%;
+  width: 65px;
   height: 70px;
   padding: 1px;
   border: 1px solid #aaaaaa;
   transform: rotate(15deg);
 }
 .image4 {
-  width: 20%;
+  width: 65px;
   height: 70px;
   padding: 1px;
   border: 1px solid #aaaaaa;
@@ -353,9 +354,8 @@ h3{
     justify-content: space-between;
 }
 .box {
-  width: 20%;
+  width: 25%;
   height: 100px;
-  padding: 1px;
   border: solid gray;
 }
 
